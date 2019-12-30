@@ -1,0 +1,22 @@
+<svg id="_1-1-热门广场" data-name="1-1-热门广场" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="68" viewBox="0 0 68 68">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#b1ccff" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#508cff" stop-opacity="0.102"/>
+    </linearGradient>
+  </defs>
+  <circle id="椭圆_89" data-name="椭圆 89" cx="34" cy="34" r="34" fill="url(#linear-gradient)"/>
+  <circle id="椭圆_57" data-name="椭圆 57" cx="2" cy="2" r="2" transform="translate(57 21)" fill="#e6aa04"/>
+  <circle id="椭圆_58" data-name="椭圆 58" cx="1.5" cy="1.5" r="1.5" transform="translate(5 31)" fill="#c1c2c5"/>
+  <circle id="椭圆_59" data-name="椭圆 59" cx="1" cy="1" r="1" transform="translate(24 57)" fill="#ff5e6b"/>
+  <g id="广场" transform="translate(14 14)">
+    <rect id="矩形_537" data-name="矩形 537" width="40" height="40" fill="none"/>
+    <path id="路径_118" data-name="路径 118" d="M40.36,8.45l1.707,1.225-2.79,3.952L37.57,12.434Z" transform="translate(-4.847 2.677)" fill="#508cff"/>
+    <path id="路径_119" data-name="路径 119" d="M28.719,0l2.032.466-1.1,4.743L27.66,4.743Z" transform="translate(-2.896 4.191)" fill="#508cff"/>
+    <path id="路径_120" data-name="路径 120" d="M13.844,0,11.86.648l1.518,4.624,1.984-.648Z" transform="translate(0.25 4.191)" fill="#508cff"/>
+    <path id="路径_121" data-name="路径 121" d="M1.627,8.45.22,9.952l3.5,3.383,1.447-1.5Z" transform="translate(2.562 2.675)" fill="#508cff"/>
+    <path id="路径_134" data-name="路径 134" d="M33.507,13.183C29.427,6.876,23.554,3.26,17.394,3.26S5.377,6.876,1.281,13.183a8.921,8.921,0,0,0,0,9.2c4.1,6.3,9.969,9.915,16.113,9.915s12-3.616,16.113-9.923a8.922,8.922,0,0,0,0-9.2Z" transform="translate(2.608 3.508)" fill="#508cff"/>
+    <path id="路径_122" data-name="路径 122" d="M20.756,24.334a4.521,4.521,0,1,1,4.348-4.7v.174A4.435,4.435,0,0,1,20.756,24.334Z" transform="translate(-0.55 1.55)" fill="#fff"/>
+  </g>
+</svg>

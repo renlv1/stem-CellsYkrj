@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="68" viewBox="0 0 68 68">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#b1ccff" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#508cff" stop-opacity="0.102"/>
+    </linearGradient>
+  </defs>
+  <g id="_1-1-私人消息" data-name="1-1-私人消息" transform="translate(0.497)">
+    <circle id="椭圆_52" data-name="椭圆 52" cx="34" cy="34" r="34" transform="translate(-0.497)" fill="url(#linear-gradient)"/>
+    <circle id="椭圆_60" data-name="椭圆 60" cx="2" cy="2" r="2" transform="translate(5.503 22)" fill="#e6aa04"/>
+    <circle id="椭圆_61" data-name="椭圆 61" cx="1.5" cy="1.5" r="1.5" transform="translate(58.503 32)" fill="#c1c2c5"/>
+    <circle id="椭圆_62" data-name="椭圆 62" cx="1" cy="1" r="1" transform="translate(40.503 58)" fill="#ff5e6b"/>
+    <g id="消息_" data-name="消息 " transform="translate(14 14)">
+      <rect id="矩形_129" data-name="矩形 129" width="40" height="40" transform="translate(-0.497)" fill="none"/>
+      <path id="路径_209" data-name="路径 209" d="M570.986,912.27H548.363a4.6,4.6,0,0,0-4.575,4.605v16.866a4.6,4.6,0,0,0,4.575,4.606h5.891l4.638,5.337a1.033,1.033,0,0,0,1.564,0l4.638-5.337h5.891a4.6,4.6,0,0,0,4.574-4.606V916.875A4.6,4.6,0,0,0,570.986,912.27Z" transform="translate(-540.319 -908.014)" fill="#508cff"/>
+      <path id="路径_208" data-name="路径 208" d="M561.054,931.3h-9.031a1.029,1.029,0,1,1,0-2.057h9.031a1.029,1.029,0,1,1,0,2.057Zm8.67-6.654h-17.7a1.029,1.029,0,1,1,0-2.057h17.7a1.029,1.029,0,1,1,0,2.057Z" transform="translate(-541.801 -910.137)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

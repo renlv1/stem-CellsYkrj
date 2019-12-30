@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#b1ccff" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#508cff" stop-opacity="0.102"/>
+    </linearGradient>
+  </defs>
+  <g id="首页资讯" transform="translate(0.495)">
+    <circle id="椭圆_50" data-name="椭圆 50" cx="40" cy="40" r="40" transform="translate(-0.495)" fill="url(#linear-gradient)"/>
+    <circle id="椭圆_54" data-name="椭圆 54" cx="2.5" cy="2.5" r="2.5" transform="translate(6.505 27)" fill="#e6aa04"/>
+    <circle id="椭圆_56" data-name="椭圆 56" cx="2" cy="2" r="2" transform="translate(68.505 39)" fill="#c1c2c5"/>
+    <circle id="椭圆_55" data-name="椭圆 55" cx="1.5" cy="1.5" r="1.5" transform="translate(47.505 69)" fill="#ff5e6b"/>
+    <g id="首页" transform="translate(15.881 16.375)">
+      <rect id="矩形_141" data-name="矩形 141" width="48" height="48" transform="translate(-0.375 -0.375)" fill="none"/>
+      <path id="路径_210" data-name="路径 210" d="M517.7,913.891a5.448,5.448,0,0,0-3.817-1.621H490.3a5.534,5.534,0,0,0-5.436,5.444v27.4a5.534,5.534,0,0,0,5.436,5.444h23.586a5.534,5.534,0,0,0,5.435-5.444v-27.4A5.469,5.469,0,0,0,517.7,913.891Z" transform="translate(-479.041 -907.77)" fill="#508cff"/>
+      <path id="路径_211" data-name="路径 211" d="M490.77,924.85h14.9a1.109,1.109,0,0,0,1.182-1.135,1.228,1.228,0,0,0-1.182-1.135h-14.9a1.136,1.136,0,1,0,0,2.27Z" transform="translate(-479.244 -908.211)" fill="#fff"/>
+      <path id="路径_212" data-name="路径 212" d="M492.34,932.22a1.107,1.107,0,0,0,1.179,1.134h20.416a1.107,1.107,0,0,0,1.179-1.134,1.222,1.222,0,0,0-1.179-1.135H493.519A1.107,1.107,0,0,0,492.34,932.22Z" transform="translate(-479.361 -908.576)" fill="#fff"/>
+      <path id="路径_213" data-name="路径 213" d="M490.77,941.859h14.9a1.136,1.136,0,1,0,0-2.27h-14.9a1.136,1.136,0,1,0,0,2.27Z" transform="translate(-479.244 -908.94)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg id="热门广场" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#b1ccff" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#508cff" stop-opacity="0.102"/>
+    </linearGradient>
+  </defs>
+  <circle id="椭圆_89" data-name="椭圆 89" cx="40" cy="40" r="40" fill="url(#linear-gradient)"/>
+  <ellipse id="椭圆_57" data-name="椭圆 57" cx="2.5" cy="2" rx="2.5" ry="2" transform="translate(67 25)" fill="#e6aa04"/>
+  <circle id="椭圆_58" data-name="椭圆 58" cx="2" cy="2" r="2" transform="translate(5 36)" fill="#c1c2c5"/>
+  <circle id="椭圆_59" data-name="椭圆 59" cx="1.5" cy="1.5" r="1.5" transform="translate(28 67)" fill="#ff5e6b"/>
+  <g id="广场" transform="translate(16.341 16.341)">
+    <rect id="矩形_537" data-name="矩形 537" width="48" height="48" transform="translate(-0.341 -0.341)" fill="none"/>
+    <path id="路径_118" data-name="路径 118" d="M40.849,8.45l2.006,1.44-3.279,4.644-2.006-1.4Z" transform="translate(0.983 4.729)" fill="#508cff"/>
+    <path id="路径_119" data-name="路径 119" d="M28.9,0l2.387.548L30,6.121,27.66,5.573Z" transform="translate(1.541 5.029)" fill="#508cff"/>
+    <path id="路径_120" data-name="路径 120" d="M14.191,0,11.86.762l1.783,5.433,2.331-.762Z" transform="translate(2.473 5.029)" fill="#508cff"/>
+    <path id="路径_121" data-name="路径 121" d="M1.873,8.45.22,10.215,4.334,14.19l1.7-1.765Z" transform="translate(3.153 4.725)" fill="#508cff"/>
+    <path id="路径_134" data-name="路径 134" d="M39.369,14.92C34.575,7.509,27.675,3.26,20.437,3.26S6.317,7.509,1.5,14.92a10.482,10.482,0,0,0,0,10.814c4.813,7.4,11.713,11.65,18.932,11.65s14.1-4.249,18.932-11.66a10.483,10.483,0,0,0,0-10.8Z" transform="translate(3.169 4.796)" fill="#508cff"/>
+    <path id="路径_122" data-name="路径 122" d="M21.577,25.915A5.313,5.313,0,1,1,26.685,20.4v.2A5.21,5.21,0,0,1,21.577,25.915Z" transform="translate(2.269 4.601)" fill="#fff"/>
+  </g>
+</svg>
